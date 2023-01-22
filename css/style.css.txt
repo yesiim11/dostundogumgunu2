@@ -1,0 +1,20 @@
+9charset "utf-8";
+
+#header{
+
+}
+#content{
+
+}
+#footer{
+
+}
+.websitesilogo{
+
+}
+body{
+    background-color:powderblue;
+}
+h1{
+    color:grey;
+}
